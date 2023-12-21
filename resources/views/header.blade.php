@@ -111,7 +111,7 @@
 								<li><a href="about" target="_blank">About Us</a></li>
 								
                                 <li class="dropdown">
-                                    <a href="service-single.php">Services</a>
+                                    <a href="seo">Services</a>
                                     <ul class="dropdown-menu clearfix">
                                         <li><a href="#" target="_blank">Search Engine Optimization</a></li>
                                         <li><a href="#" target="_blank">Social Media Marketing</a></li>
@@ -233,12 +233,12 @@
 							</div>
 							<div class="sidebar-menu ul-li-block">
 								<ul>
-									<li><a href="#"><i class="fa fa-wrench"></i> Search Engine Optimization (SEO)</a></li>
-									<li><a href="#"><i class="fa fa-wrench"></i> Social Media Marketing (SMM)</a></li>
+									<li><a href="#"><i class="fa fa-wrench"></i> Services</a></li>
+									<!-- <li><a href="#"><i class="fa fa-wrench"></i> Social Media Marketing (SMM)</a></li>
 									<li><a href="#"><i class="fa fa-wrench"></i> Search Engine Marketing (SEM)</a></li>
 									<li><a href="#"><i class="fa fa-wrench"></i> Web Design</a></li>
 									<li><a href="#"><i class="fa fa-wrench"></i> Content Writing</a></li>
-									<li><a href="#"><i class="fa fa-wrench"></i> Email Marketing Services</a></li>
+									<li><a href="#"><i class="fa fa-wrench"></i> Email Marketing Services</a></li> -->
 									<li><a href="about"><i class="fal fa-home"></i> About Us </a></li>
 									<li><a href="testimonial"><i class="fal fa-comments-alt"></i> Testimonial </a></li>
 									<li><a href="team"><i class="fal fa-users"></i> Our Team </a></li>
@@ -270,7 +270,7 @@
 				</div>
 			</div>
 		</div>
-	</div> <br> <br>
+	</div> 
 	
 <!-- End of header section
 	============================================= -->

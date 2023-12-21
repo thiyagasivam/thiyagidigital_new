@@ -77,7 +77,7 @@
 	============================================= -->
 	<section id="bi-contact-form" class="bi-contact-form-section">
 		<div class="bi-contact-map">
-			<div class="bi-contact-map-content d-flex flex-wrap">
+			<!-- <div class="bi-contact-map-content d-flex flex-wrap">
 				<div class="google-map">
 					<iframe
 					width="850"
@@ -86,7 +86,7 @@
 					style="border:0"
 					src="https://www.google.com/maps/place/KUDIL/@12.9098838,80.1715965,16z/data=!4m20!1m13!4m12!1m4!2m2!1d80.176346!2d12.9078129!4e1!1m6!1m2!1s0x3a525ea4fdd8ab01:0x4bc2181abafa288d!2sKUDIL,+Vignarajapuram+Main+Road,+Gandhi+Nagar,+Vengaivasal,+Medavakkam,+Chennai,+Tamil+Nadu!2m2!1d80.177897!2d12.910924!3m5!1s0x3a525ea4fdd8ab01:0x4bc2181abafa288d!8m2!3d12.9109282!4d80.1778975!16s%2Fg%2F11c3k93m5n?entry=ttu">
 				</iframe>
-			</div>
+			</div> -->
 			<div class="bi-team-details-contact-info headline pera-content">
 				<div class="bi-team-details-contact-title">
 					<div class="bi-section-title-1 headline pera-content">

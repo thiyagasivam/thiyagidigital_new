@@ -1,4 +1,5 @@
 @include('header');
+
 <head>
 <title>Best Digital Marketing Company - ThiyagiDigital</title>
     <meta name="description" content="Haptic contact">
@@ -10,10 +11,11 @@
 		<div class="background_overlay"></div>
 		<div class="container">
 			<div class="bi-breadcrumbs-content headline ul-li text-center">
-				<h2>Services Details</h2>
+				<h2 style="color: white"><b>SEO</b></h2><br>
 				<ul>
 					<li><a href="#">Home</a></li>
-					<li>Design & Development</li>
+					<li>Services</li>
+					<li style="color: white">SEO</li>
 				</ul>
 			</div>
 		</div>
@@ -160,28 +162,56 @@
 						<div class="bi-single-sidebar">
 							<div class="bi-sidebar-widget headline">
 								<div class="search-widget">
-									<h3 class="widget-title">Search</h3>
+									<h3 class="widget-title">Contact</h3>
 									<div class="widget-area">
-										<form action="#">
 											<div class="search-input position-relative">
-												<input type="text" name="search" placeholder="Search here...">
-												<button><i class="far fa-search"></i></button>
+
+											<form action="sendmail.php" method="post">
+											<input type="text" name="name" placeholder="First Name"><br>
+											<input type="text" name="phone" placeholder="Phone No."><br>
+											<input type="text" name="subject" placeholder="Subject"><br>
+										    <button type="submit">Send messages</button>
+												<!-- <input type="text" name="search" placeholder="Search here..."> -->
+												<!-- <button><i class="far fa-search"></i></button> -->
 											</div>
-										</form>
 									</div>
 								</div>
 							</div>
+
+							<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-4">
+            <h2>Contact Us</h2>
+            <form action="" method="post">
+                <div class="mb-3">
+                    <label for="name" class="form-label">Your Name</label>
+                    <input type="text" class="form-control" id="name" name="name" required>
+                </div>
+                <div class="mb-3">
+                    <label for="mobile" class="form-label">Mobile Number</label>
+                    <input type="tel" class="form-control" id="mobile" name="mobile" required>
+                </div>
+                <div class="mb-3">
+                    <label for="message" class="form-label">Message</label>
+                    <textarea class="form-control" id="message" name="message" rows="4" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+
 							<div class="bi-sidebar-widget headline ul-li-block">
 								<div class="service-widget">
 									<h3 class="widget-title">Main Services</h3>
 									<div class="widget-area">
 										<ul>
-											<li><a href="#">Branding & Art</a></li>
-											<li><a href="#">Degital Marketing</a></li>
-											<li><a href="#">Web Development</a></li>
-											<li><a href="#">Design & Development</a></li>
-											<li><a href="#">3D Animation</a></li>
-											<li><a href="#">Branding & Illustration</a></li>
+											<li><a href="#">Digital Marketing Services</a></li>
+											<li><a href="#">Social Media Marketing Services</a></li>
+											<li><a href="#">Content Marketing Services</a></li>
+											<li><a href="#">Web & Mobile Developments</a></li>
+											<li><a href="#">Email Marketing</a></li>
+											<li><a href="#">Web Hosting</a></li>
 										</ul>
 									</div>
 								</div>
@@ -193,8 +223,8 @@
 											<i class="fas fa-phone"></i>
 										</div>
 										<div class="add-text pera-content">
-											<h3>+215 5747 6654</h3>
-											<p>Monday – Friday: 7:00 am -8:00 pm24/7 Emergency Service</p>
+											<h3>+91 9787754567</h3>
+											<p>Monday – Friday: 10:00 am -6:00 pm 24/7 Emergency Service</p>
 										</div>
 									</div>
 								</div>

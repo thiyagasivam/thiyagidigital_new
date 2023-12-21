@@ -1,5 +1,10 @@
 @include('header');
-
+<head>
+<title>About Us Best Digital Marketing Company - ThiyagiDigital</title>
+    <meta name="description" content="About Us">
+    <meta name="keywords" content="About Us">
+    <meta name="author" content="Themexriver">
+</head>
 
 
 <!-- Start of breadcrumb section
@@ -8,7 +13,7 @@
 		<div class="background_overlay"></div>
 		<div class="container">
 			<div class="bi-breadcrumbs-content headline ul-li text-center">
-				<h2>Test About Us</h2>
+				<h1>About Us</h1>
 				<ul>
 					<li><a href="#">Home</a></li>
 					<li>About us</li>
@@ -53,7 +58,7 @@
 						<div class="bi-about-text-area">
 							<div class="bi-section-title-1 headline pera-content">
 								<div class="bi-subtitle text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
-									Welcome Creative Agency
+									Welcome Thiyagi Digital
 								</div>
 								<h2 class="headline-title">
 									<b>Un</b>lock Revenue 

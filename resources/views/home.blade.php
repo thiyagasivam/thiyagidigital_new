@@ -21,7 +21,7 @@
                                 <div class="hpt-hero-2-slider-item">
 
                                     <div class="hero-2-bg-img">
-                                        <img src="assets/img/new_home/bg-shape/hero-2-bg-img-1.png" alt="">
+                                        <img src="assets/img/new_home/bg-shape/hero-2-bg-img-1.png" alt="thiyagi">
                                     </div>
 
                                     <div class="container h1-container">
