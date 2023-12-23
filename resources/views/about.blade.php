@@ -12,8 +12,8 @@
 	<section id="bi-breadcrumbs" class="bi-bredcrumbs-section position-relative about-bgimgsize" data-background="assets/img/bg/bread-bg.jpg">
 		<div class="background_overlay"></div>
 		<div class="container">
-			<div class="bi-breadcrumbs-content headline ul-li text-center">
-				<h1>About Us</h1>
+		<div class="bi-breadcrumbs-content headline ul-li text-center">
+				<h2 style="color: white"><b>About us</b></h2><br>
 				<ul>
 					<li><a href="#">Home</a></li>
 					<li>About us</li>
