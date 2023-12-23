@@ -1,4 +1,4 @@
-@include('header');
+@include('header')
 
 <head>
 <title>Best Digital Marketing Company - ThiyagiDigital</title>
@@ -6,11 +6,11 @@
 </head>
 <!-- Start of breadcrumb section
 	============================================= -->
-	<section id="bi-breadcrumbs" class="bi-bredcrumbs-section position-relative" data-background="assets/img/bg/bread-bg.jpg">
+	<section id="bi-breadcrumbs" class="bi-bredcrumbs-section position-relative about-bgimgsize" data-background="assets/img/bg/bread-bg.jpg">
 		<div class="background_overlay"></div>
 		<div class="container">
 			<div class="bi-breadcrumbs-content headline ul-li text-center">
-				<h2>Contact</h2>
+				<h2 style="color:white">Contact</h2><br>
 				<ul>
 					<li><a href="#">Home</a></li>
 					<li>Contact</li>
@@ -134,4 +134,4 @@
 <br>
 
 
-	@include('footer');
+	@include('footer')

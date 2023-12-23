@@ -18793,7 +18793,9 @@ CSS INDEX
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  gap: 65px;
+  /* gap: 65px; */
+  gap: 35px;
+
 }
 @media (max-width: 767px) {
   .hpt-choose-2-btn-wrap {
@@ -19002,7 +19004,7 @@ CSS INDEX
 }
 
 .hpt-footer-widget-content {
-  padding: 200px 0px 50px;
+  padding: 100px 0px 50px;
 }
 
 .hpt-footer-widget {
@@ -19146,6 +19148,11 @@ CSS INDEX
   background: -webkit-gradient(linear, left bottom, left top, from(rgba(22, 35, 43, 0.9)), to(rgba(22, 35, 43, 0.9)));
   background: linear-gradient(0deg, rgba(22, 35, 43, 0.9) 0%, rgba(22, 35, 43, 0.9) 100%);
 }
+
+/* 
+.about-bgimgsize{
+  background-size: 300px 100px !important;
+} */
 
 .bi-breadcrumbs-content {
   padding: 300px 0px 230px;
@@ -21404,7 +21411,7 @@ CSS INDEX
     font-size: 22px;
   }
   .bi-breadcrumbs-content {
-    padding: 200px 0px 180px;
+    padding: 50px 0px 45px;
   }
 }
 @media screen and (max-width: 991px) {

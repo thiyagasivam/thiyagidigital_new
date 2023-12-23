@@ -15,7 +15,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="hpt-footer-widget headline pera-content ul-li-block">
                     <div class="menu-widget">
                         <h3 class="widget-title">Our Services</h3>
@@ -30,7 +30,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-5 col-sm-6">
+            <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="hpt-footer-widget headline pera-content ul-li-block">
                     <div class="menu-widget">
                         <h3 class="widget-title">Quick Links</h3>
@@ -44,10 +44,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-4">
+            
+           <br>
+
+           <div class="col-lg-4 col-md-4">
                 <div class="hpt-footer-widget headline pera-content ul-li-block">
                     <div class="menu-widget">
-                        <h3 class="widget-title">Address</h3>
+                        <h3 class="widget-title">Branches</h3>
                         <ul>
                             <li><a href="#">B2, Antony Greenland Apartment 4th Extension</a></li>
                             <li><a href="#">Vignarajapuram Main Road,Vengaivasal, Medavakkam, Tamil Nadu 600073</a></li>
@@ -55,6 +58,31 @@
                     </div>
                 </div>
             </div>
+
+            <div class="col-lg-4 col-md-4">
+                <div class="hpt-footer-widget headline pera-content ul-li-block">
+                    <div class="menu-widget">
+                        <h3 class="widget-title"></h3>
+                        <ul>
+                            <li><a href="#"> B2, Antony Greenland Apartment 4th Extension</a></li>
+                            <li><a href="#">Vignarajapuram Main Road,Vengaivasal, Medavakkam, Tamil Nadu 600073</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4">
+                <div class="hpt-footer-widget headline pera-content ul-li-block">
+                    <div class="menu-widget">
+                        <h3 class="widget-title"></h3>
+                        <ul>
+                            <li><a href="#">B2, Antony Greenland Apartment 4th Extension</a></li>
+                            <li><a href="#">Vignarajapuram Main Road,Vengaivasal, Medavakkam, Tamil Nadu 600073</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 </div>

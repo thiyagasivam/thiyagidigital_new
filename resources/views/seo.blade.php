@@ -7,7 +7,7 @@
 
 <!-- Start of breadcrumb section
 	============================================= -->
-	<section id="bi-breadcrumbs" class="bi-bredcrumbs-section position-relative" data-background="assets/img/bg/bread-bg.jpg">
+	<section id="bi-breadcrumbs" class="bi-bredcrumbs-section position-relative about-bgimgsize" data-background="assets/img/bg/bread-bg.jpg">
 		<div class="background_overlay"></div>
 		<div class="container">
 			<div class="bi-breadcrumbs-content headline ul-li text-center">
@@ -160,7 +160,7 @@
 					</div>
 					<div class="col-lg-4">
 						<div class="bi-single-sidebar">
-							<div class="bi-sidebar-widget headline">
+							<!-- <div class="bi-sidebar-widget headline">
 								<div class="search-widget">
 									<h3 class="widget-title">Contact</h3>
 									<div class="widget-area">
@@ -171,15 +171,15 @@
 											<input type="text" name="phone" placeholder="Phone No."><br>
 											<input type="text" name="subject" placeholder="Subject"><br>
 										    <button type="submit">Send messages</button>
-												<!-- <input type="text" name="search" placeholder="Search here..."> -->
-												<!-- <button><i class="far fa-search"></i></button> -->
+												
 											</div>
 									</div>
 								</div>
-							</div>
-
+							</div> -->
+<!-- <input type="text" name="search" placeholder="Search here..."> -->
+												<!-- <button><i class="far fa-search"></i></button> -->
 							<div class="container">
-    <div class="row justify-content-center">
+    <!-- <div class="row justify-content-center">
         <div class="col-lg-4">
             <h2>Contact Us</h2>
             <form action="" method="post">
@@ -198,7 +198,7 @@
                 <button type="submit" class="btn btn-primary">Submit</button>
             </form>
         </div>
-    </div>
+    </div> -->
 </div>
 
 							<div class="bi-sidebar-widget headline ul-li-block">
