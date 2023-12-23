@@ -1,4 +1,4 @@
-@include('header');
+@include('header')
 
 <head>
 <title>Best Digital Marketing Company - ThiyagiDigital</title>
@@ -201,42 +201,19 @@
     </div> -->
 </div>
 
-							<div class="bi-sidebar-widget headline ul-li-block">
-								<div class="service-widget">
-									<h3 class="widget-title">Main Services</h3>
-									<div class="widget-area">
-										<ul>
-											<li><a href="#">Digital Marketing Services</a></li>
-											<li><a href="#">Social Media Marketing Services</a></li>
-											<li><a href="#">Content Marketing Services</a></li>
-											<li><a href="#">Web & Mobile Developments</a></li>
-											<li><a href="#">Email Marketing</a></li>
-											<li><a href="#">Web Hosting</a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="bi-sidebar-widget headline ul-li-block">
-								<div class="add-widget" data-background="assets/img/bg/ad-bg.png">
-									<div class="add-widget-area text-center">
-										<div class="add-icon d-flex justify-content-center align-items-center">
-											<i class="fas fa-phone"></i>
-										</div>
-										<div class="add-text pera-content">
-											<h3>+91 9787754567</h3>
-											<p>Monday – Friday: 10:00 am -6:00 pm 24/7 Emergency Service</p>
-										</div>
-									</div>
-								</div>
-							</div>
+  @include('mainservice_sidebar')
+
+  @include('callservice_sidebar')
+
+						
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</section>	<br> <br>
+	</section>
 <!-- End of Service Details section
 	============================================= -->	
 
 
-    @include('footer');
+    @include('footer')

@@ -166,7 +166,7 @@
 								<li><a href="about.php" target="_blank">About Us</a></li>
 
                                 <li class="dropdown">
-									<a href="service.php">Services</a>
+									<a href="service.php" target="_blank">Services</a>
 									<ul class="dropdown-menu clearfix">
 										<li><a href="#" target="_blank">Search Engine Optimization</a></li>
                                         <li><a href="#" target="_blank">Social Media Marketing</a></li>
