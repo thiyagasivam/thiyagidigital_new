@@ -1,6 +1,14 @@
  <!-- footer-start -->
  <footer class="hpt-footer-section hpt-footer-2">
 
+ 
+
+ <div class="whatsapp-icon">
+    <a href="https://wa.me/9787754567" target="_blank">
+        <i class="fab fa-whatsapp-square"></i>
+    </a>
+</div>
+
 <div class="hpt-footer-widget-content">
     <div class="container h1-container">
         <div class="row">
@@ -51,9 +59,9 @@
                 <div class="hpt-footer-widget headline pera-content ul-li-block">
                     <div class="menu-widget">
                         <h3 class="widget-title">Branches</h3>
-                        <ul>
-                            <li><a href="#">B2, Antony Greenland Apartment 4th Extension</a></li>
-                            <li><a href="#">Vignarajapuram Main Road,Vengaivasal, Medavakkam, Tamil Nadu 600073</a></li>
+                        <ul style="color:#fff !important;">
+                            <li>B2, Antony Greenland Apartment 4th Extension</li>
+                            <li>Vignarajapuram Main Road,Vengaivasal, Medavakkam, Tamil Nadu 600073</li>
                         </ul>
                     </div>
                 </div>
@@ -63,21 +71,21 @@
                 <div class="hpt-footer-widget headline pera-content ul-li-block">
                     <div class="menu-widget">
                         <h3 class="widget-title"></h3>
-                        <ul>
-                            <li><a href="#"> B2, Antony Greenland Apartment 4th Extension</a></li>
-                            <li><a href="#">Vignarajapuram Main Road,Vengaivasal, Medavakkam, Tamil Nadu 600073</a></li>
+                        <ul style="color:#fff !important;">
+                            <li> B2, Antony Greenland Apartment 4th Extension</li>
+                            <li>Vignarajapuram Main Road,Vengaivasal, Medavakkam, Tamil Nadu 600073</li>
                         </ul>
                     </div>
                 </div>
             </div>
 
             <div class="col-lg-4 col-md-4">
-                <div class="hpt-footer-widget headline pera-content ul-li-block">
+                <div class="hpt-footer-widget headline pera-content ul-li-block li-clr">
                     <div class="menu-widget">
                         <h3 class="widget-title"></h3>
-                        <ul>
-                            <li><a href="#">B2, Antony Greenland Apartment 4th Extension</a></li>
-                            <li><a href="#">Vignarajapuram Main Road,Vengaivasal, Medavakkam, Tamil Nadu 600073</a></li>
+                        <ul style="color:#fff !important;">
+                            <li>B2, Antony Greenland Apartment 4th Extension</li>
+                            <li>Vignarajapuram Main Road,Vengaivasal, Medavakkam, Tamil Nadu 600073</li>
                         </ul>
                     </div>
                 </div>

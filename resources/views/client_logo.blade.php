@@ -12,55 +12,34 @@
                     <div class="hpt-client-logo-1-slider-wrap">
                         <div class="hpt-client-logo-1-slider">
                             <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-1.png" alt="">
+                                <img src="assets/img/client/dermiscare_client.png" alt="">
                             </div>
                             <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-2.png" alt="">
+                                <img src="assets/img/client/kaca_client.png" alt="">
                             </div>
                             <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-3.png" alt="">
+                                <img src="assets/img/client/CompetitioArt_client.png" alt="">
                             </div>
                             <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-4.png" alt="">
+                                <img src="assets/img/client/flyoke_client.png" alt="">
                             </div>
                             <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-5.png" alt="">
+                                <img src="assets/img/client/kalai_client.png" alt="">
                             </div>
                             <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-6.png" alt="">
+                                <img src="assets/img/client/kumbakonamcoffee_client.png" alt="">
                             </div>
                             <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-4.png" alt="">
+                                <img src="assets/img/client/publicmyntra_client.png" alt="">
                             </div>
                             <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-2.png" alt="">
+                                <img src="assets/img/client/cargo_client.png" alt="cargo">
                             </div>
                             <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-3.png" alt="">
+                                <img src="assets/img/client/theshopperz_client.png" alt="">
                             </div>
                             <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-5.png" alt="">
-                            </div>
-                            <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-1.png" alt="">
-                            </div>
-                            <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-2.png" alt="">
-                            </div>
-                            <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-4.png" alt="">
-                            </div>
-                            <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-2.png" alt="">
-                            </div>
-                            <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-3.png" alt="">
-                            </div>
-                            <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-4.png" alt="">
-                            </div>
-                            <div class="hpt-client-logo-1-slider-single">
-                                <img src="assets/img/new_home/company-logo/client-logo-5.png" alt="">
+                                <img src="assets/img/client/interior_client.png" alt="">
                             </div>
                         </div>
                     </div>

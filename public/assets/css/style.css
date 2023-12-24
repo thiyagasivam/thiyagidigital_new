@@ -3266,7 +3266,7 @@ select:visited {
 }
 
 .bi-sponsor-content {
-  padding: 20px 0px 60px;
+  padding: 40px 0px 150px;
   border-bottom: 1px solid #eeeeee;
 }
 
@@ -19155,7 +19155,7 @@ CSS INDEX
 } */
 
 .bi-breadcrumbs-content {
-  padding: 300px 0px 230px;
+  padding: 200px 0px 130px;
 }
 .bi-breadcrumbs-content h1 {
   color: #fff;
@@ -21411,7 +21411,7 @@ CSS INDEX
     font-size: 22px;
   }
   .bi-breadcrumbs-content {
-    padding: 50px 0px 45px;
+    padding: 100px 0px 70px;
   }
 }
 @media screen and (max-width: 991px) {
@@ -22350,3 +22350,28 @@ CSS INDEX
   }
 }
 /*---------------------------------------------------- */
+
+/* Add your existing styles here */
+
+/* WhatsApp icon styles */
+.whatsapp-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
+}
+
+.whatsapp-icon a {
+  display: block;
+}
+
+.whatsapp-icon i {
+  font-size: 70px; /* Adjust the size as needed */
+  color: #25D366; /* WhatsApp green color */
+  transition: transform 0.3s ease-in-out;
+}
+
+.whatsapp-icon i:hover {
+  transform: scale(1.1);
+}
+
