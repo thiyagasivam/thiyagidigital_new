@@ -33,3 +33,28 @@ Route::get('seo', function () {
 Route::get('about', function () {
     return view('about');
 });
+
+Route::get('portfolio', function () {
+    return view('portfolio');
+});
+
+Route::get('smm', function () {
+    return view('smm');
+});
+
+Route::get('sem', function () {
+    return view('sem');
+});
+
+Route::get('email-marketing', function () {
+    return view('email-marketing');
+});
+
+Route::get('content-writing', function () {
+    return view('content-writing');
+});
+
+Route::get('web-development', function () {
+    return view('web-development');
+});
+

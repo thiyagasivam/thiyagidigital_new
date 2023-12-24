@@ -113,17 +113,15 @@
                                 <li class="dropdown">
                                     <a href="seo">Services</a>
                                     <ul class="dropdown-menu clearfix">
-                                        <li><a href="#" target="_blank">Search Engine Optimization</a></li>
-                                        <li><a href="#" target="_blank">Social Media Marketing</a></li>
-                                        <li><a href="#" target="_blank">Search Engine Marketing</a></li>
-                                        <li><a href="#" target="_blank">Web Development</a></li>
-                                        <li><a href="#" target="_blank">Web Design</a></li>
-                                        <li><a href="#" target="_blank">Content Writing</a></li>
-										<li><a href="#" target="_blank">Email Marketing</a></li>
-                                        <li><a href="#" target="_blank">Landing Page Design</a></li>
+                                        <li><a href="seo" target="_blank">Search Engine Optimization</a></li>
+                                        <li><a href="smm" target="_blank">Social Media Marketing</a></li>
+                                        <li><a href="sem" target="_blank">Search Engine Marketing</a></li>
+                                        <li><a href="web-development" target="_blank">Web Development</a></li>
+                                        <li><a href="content-writing" target="_blank">Content Writing</a></li>
+										<li><a href="email-marketing" target="_blank">Email Marketing</a></li>
                                     </ul>
                                 </li>
-								<li><a href="testimonial.php" target="_blank">Testimonial</a></li>
+								<li><a href="portfolio" target="_blank">Testimonial</a></li>
 								<li><a href="#" target="_blank">Blog</a></li>
                                 <li><a href="contact" target="_blank">Contact Us</a></li>
 
