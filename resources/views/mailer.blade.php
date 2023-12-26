@@ -20,7 +20,7 @@ if($_POST) {
 
   if(@mail($to, $subject, $body)) {
     $output = json_encode(array('success' => true));
-    echo "<script>window.location= 'thankyou.php'</script>";
+    echo "<script>window.location= 'thankyou'</script>";
   } else {
     $output = json_encode(array('success' => false));
     die($output);
