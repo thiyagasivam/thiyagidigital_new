@@ -11,11 +11,11 @@
 		<div class="background_overlay"></div>
 		<div class="container">
 			<div class="bi-breadcrumbs-content headline ul-li text-center">
-				<h2 style="color: white"><b>SEO</b></h2><br>
+				<h2 style="color: white"><b>Social Media Marketing Agency</b></h2><br>
 				<ul>
 					<li><a href="#">Home</a></li>
 					<li>Services</li>
-					<li style="color: white">SEO</li>
+					<li style="color: white">SMM</li>
 				</ul>
 			</div>
 		</div>
@@ -35,27 +35,24 @@
 								<img src="assets/img/service/serd1.jpg" alt="">
 							</div>
 							<div class="bi-service-details-text headline pera-content">
-								<h3>Design & Development</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a libero maximus, rhoncus ex vel, suscipit velit. Donec in interdum nisl. Curabitur fringilla turpis sed nulla auctor, laoreet mollis sem maximus. Suspendisse laoreet feugiat accumsan. Sed mollis, augue a ultrices convallis, dolor metus eleifend nulla, at efficitur lacus nisi sit amet est. Morbi rutrum ullamcorper orci eu auctor. In hac habitasse platea dictumst. Integer venenatis eu arcu et convallis. Vestibulum in lacinia sem, quis aliquet turpis. Fusce bibendum posuere velit, ut auctor leo aliquam vel. Suspendisse ut pharetra urna. Duis ultricies odio ullamcorper, tempor enim id, volutpat nunc. In tellus erat, pellentesque ut erat at, suscipit pharetra mauris. Proin gravida dictum lectus, sed bibendum mauris elementum non. Pellentesque mi erat, pulvinar sed rhoncus id, euismod non turpis.</p>
-								<p>Suspendisse a libero maximus, rhoncus ex vel, suscipit velit. Donec in interdum nisl. Curabitur fringilla turpis sed nulla auctor, laoreet mollis sem maximus. Suspendisse laoreet feugiat accumsan. Sed mollis, augue a ultrices convallis, dolor metus eleifend nulla, at efficitur lacus nisi sit amet est. Morbi rutrum ullamcorper orci eu auctor. In hac habitasse platea dictumst. Integer venenatis eu arcu et convallis. Vestibulum in lacinia sem, quis aliquet turpis. Fusce bibendum posuere velit, ut auctor leo aliquam vel.</p>
-								<div class="bi-service-details-feature position-relative">
+								<h3>Social Media Marketing</h3>
+
+								<p>A strong social media presence is crucial for brand success in the age of digital domination. We are pleased to provide our Social Media Marketing Services, which will turn your online presence into a powerful force.</p>
+
+								<p>Our method is straightforward but effective. We tailor our tactics to your own company brand, making sure each article contributes to the attainment of your objectives. Our skilled team of social media strategists creates plans that are customised to your objectives, from building community participation to raising brand exposure.</p>
+
+								<p>Content is carefully created to capture the soul of your brand by fusing eye-catching imagery with powerful prose. We are not just creative; we are data-driven. Our data-driven techniques continuously improve campaigns to get the best possible reach, interaction, and conversion rates.</p>
+
+                                <h4> "Elevate Your Brand with Our Social Media Mastery"</h4>
+
+                                <p>Authenticity is our touchstone. We don't just manage social media; we humanize it. Building genuine connections, we turn followers into an engaged community. As trends evolve, so do we. Stay ahead with our insights, tips, and strategies, and keep your brand not just relevant but indispensable in the digital realm.</p>
+
+                                <p>Ready to elevate your brand? Partner with us for Social Media Mastery and watch your digital presence soar. Follow us for exclusive industry insights, and let's embark on a journey of social success together.</p>
+
+								<!-- <div class="bi-service-details-feature position-relative">
 									<span class="service-star position-absolute"><img src="assets/img/icon/star3.png" alt=""></span>
 									<div class="row">
-										<div class="col-md-6">
-											<div class="bi-sd-feature">
-												<div class="bi-sd-icon-title d-flex align-items-center">
-													<div class="inner-icon">
-														<i class="flaticon-tablet"></i>
-													</div>
-													<div class="inner-title">
-														<h4>Mobile application</h4>
-													</div>
-												</div>
-												<div class="bi-sd-feature-text">
-													With over a decade of experience, we’ve established ourselves as one of the pioneering agencies in the region.
-												</div>
-											</div>
-										</div>
+									
 										<div class="col-md-6">
 											<div class="bi-sd-feature">
 												<div class="bi-sd-icon-title d-flex align-items-center">
@@ -67,8 +64,7 @@
 													</div>
 												</div>
 												<div class="bi-sd-feature-text">
-													With over a decade of experience, we’ve established ourselves as one of the pioneering agencies in the region.
-												</div>
+												"Utilise our skilled digital marketing to elevate your brand online. Easily rule the digital sphere, engage audiences, and spur growth".</div>
 											</div>
 										</div>
 										<div class="col-md-6">
@@ -82,7 +78,7 @@
 													</div>
 												</div>
 												<div class="bi-sd-feature-text">
-													With over a decade of experience, we’ve established ourselves as one of the pioneering agencies in the region.
+												"Creating streamlined internet encounters. Our web development service blends creativity and accuracy to create captivating and faultless websites."
 												</div>
 											</div>
 										</div>
@@ -90,36 +86,34 @@
 											<div class="bi-sd-feature">
 												<div class="bi-sd-icon-title d-flex align-items-center">
 													<div class="inner-icon">
-														<i class="flaticon-chatting"></i>
+														<i class="flaticon-tablet"></i>
 													</div>
 													<div class="inner-title">
-														<h4>Website Design</h4>
+														<h4>Responsive Web Design</h4>
 													</div>
 												</div>
 												<div class="bi-sd-feature-text">
-													With over a decade of experience, we’ve established ourselves as one of the pioneering agencies in the region.
+												"Creating streamlined internet encounters. Our web development service blends creativity and accuracy to create captivating and faultless websites."
 												</div>
 											</div>
 										</div>
 									</div>
-								</div>
-								<p>Donec in interdum nisl. Curabitur fringilla turpis sed nulla auctor, laoreet mollis sem maximus. Suspendisse laoreet feugiat accumsan. Sed mollis, augue a ultrices convallis, dolor metus eleifend nulla, at efficitur lacus nisi sit amet est. Morbi rutrum ullamcorper orci eu auctor. In hac habitasse platea dictumst.</p>
-								<h4>We serve the best work</h4>
-								<p>Curabitur fringilla turpis sed nulla auctor, laoreet mollis sem maximus. Suspendisse laoreet feugiat accumsan. Sed mollis, augue a ultrices convallis, dolor metus eleifend nulla, at efficitur lacus nisi sit amet est.</p>
-								<p>Curabitur fringilla turpis sed nulla auctor, laoreet mollis sem maximus. Suspendisse laoreet feugiat accumsan. Sed mollis, augue a ultrices convallis, dolor metus eleifend nulla, at efficitur lacus nisi sit amet est. Morbi rutrum ullamcorper orci eu auctor. In hac habitasse platea dictumst. Integer venenatis eu arcu et convallis. Vestibulum in lacinia sem, quis aliquet turpis. Fusce bibendum posuere velit, ut auctor leo aliquam vel.</p>
+								</div> -->
+							
+
 								<h4>Frequently Asked Question</h4>
 								<div class="bi-faq-content-area">
 									<div class="accordion" id="accordionExample_31">
 										<div class="accordion-item wow fadeInUp"  data-wow-delay="200ms" data-wow-duration="1000ms">
 											<h2 class="accordion-header" id="heading10">
 												<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="true" aria-controls="collapse10">
-													<span>	What is Business ?</span>
+													<span>	What is Social Media Marketing (SMM)?</span>
 												</button>
 											</h2>
 											<div id="collapse10" class="accordion-collapse collapse show" aria-labelledby="heading10" data-bs-parent="#accordionExample_31">
 												<div class="accordion-body ">
 													<div class="bi-faq-text">
-														Improve efficiency, provide a better customer experience with modern technolo services available around Improve efficiency, provide 
+													SMM promotes brands through strategic content on social platforms, fostering audience engagement and driving business objectives. 
 													</div>
 												</div>
 											</div>
@@ -127,13 +121,13 @@
 										<div class="accordion-item wow fadeInUp"  data-wow-delay="300ms" data-wow-duration="1000ms">
 											<h2 class="accordion-header" id="heading12">
 												<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-													<span>Nulla vitae est risus. Aenean aliquam dolor a massa</span>
+													<span> Why is SMM crucial for businesses?</span>
 												</button>
 											</h2>
 											<div id="collapse12" class="accordion-collapse collapse" aria-labelledby="heading12" data-bs-parent="#accordionExample_31">
 												<div class="accordion-body ">
 													<div class="bi-faq-text">
-														Improve efficiency, provide a better customer experience with modern technolo services available around Improve efficiency, provide
+													SMM enhances brand visibility, builds relationships, and drives conversions, leveraging the power of social media platforms effectively.
 													</div>
 												</div>
 											</div>
@@ -141,14 +135,12 @@
 										<div class="accordion-item wow fadeInUp"  data-wow-delay="400ms" data-wow-duration="1000ms">
 											<h2 class="accordion-header" id="heading13">
 												<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-													<span>Pellentesque habitant morbi 
-													tristique senectus ?</span>
+													<span> How do you measure SMM success?</span>
 												</button>
 											</h2>
 											<div id="collapse13" class="accordion-collapse collapse" aria-labelledby="heading13" data-bs-parent="#accordionExample_31">
 												<div class="accordion-body ">
-													<div class="bi-faq-text">
-														Improve efficiency, provide a better customer experience with modern technolo services available around Improve efficiency, provide
+													<div class="bi-faq-text"> Success is quantified by tracking metrics like engagement rates, reach, conversions, and return on investment for campaigns.
 													</div>
 												</div>
 											</div>

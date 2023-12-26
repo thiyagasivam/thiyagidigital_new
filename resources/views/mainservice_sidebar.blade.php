@@ -3,12 +3,12 @@
 									<h3 class="widget-title">Main Services</h3>
 									<div class="widget-area">
 										<ul>
-											<li><a href="#">Digital Marketing Services</a></li>
-											<li><a href="#">Social Media Marketing Services</a></li>
-											<li><a href="#">Content Marketing Services</a></li>
-											<li><a href="#">Web & Mobile Developments</a></li>
-											<li><a href="#">Email Marketing</a></li>
-											<li><a href="#">Web Hosting</a></li>
+										<li><a href="seo" target="_blank">Search Engine Optimization</a></li>
+                                        <li><a href="smm" target="_blank">Social Media Marketing</a></li>
+                                        <li><a href="sem" target="_blank">Search Engine Marketing</a></li>
+                                        <li><a href="web-development" target="_blank">Web Development</a></li>
+                                        <li><a href="content-writing" target="_blank">Content Writing</a></li>
+										<li><a href="email-marketing" target="_blank">Email Marketing</a></li>
 										</ul>
 									</div>
 								</div>

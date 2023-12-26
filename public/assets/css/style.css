@@ -808,7 +808,7 @@ select:visited {
 }
 
 .inner-page-padding {
-  padding: 120px 0px;
+  padding: 60px 0px;
 }
 
 .bi-pagination li a {
@@ -19745,7 +19745,7 @@ CSS INDEX
   border-radius: 20px;
   border: 1px solid rgba(22, 35, 43, 0.1);
 }
-.bi-team-details-contact-form input, .bi-team-details-contact-form textarea {
+.bi-team-details-contact-form input, .bi-team-details-contact-form textarea, .bi-team-details-contact-form select {
   width: 100%;
   height: 62px;
   border: none;
@@ -22375,3 +22375,16 @@ CSS INDEX
   transform: scale(1.1);
 }
 
+
+.select
+  {
+    width: 100%!important;
+    height: 62px!important;
+    border: none;
+    color: #555;
+    padding-left: 20px!important;
+    margin-bottom: 25px!important;
+    border-radius: 5px;
+    font-family: var(--heading);
+    background: rgba(22, 35, 43, 0.05);
+  }

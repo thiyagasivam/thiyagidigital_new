@@ -99,10 +99,10 @@
 					</div>
 					<p>Let’s talk about your business. Fill the form, and we will reach out to you.</p>
 					<div class="bi-team-details-contact-form">
-						<form action="sendmail.php" method="post">
+						<form action="mailer.php" method="post">
 							<div class="row">
 								<div class="col-md-6">
-									<input type="text" name="name" placeholder="First Name">
+									<input type="text" name="name" placeholder="Name">
 								</div>
 								<div class="col-md-6">
 									<input type="text" name="Email" placeholder="Email">
@@ -110,12 +110,17 @@
 								<div class="col-md-6">
 									<input type="text" name="phone" placeholder="Phone No.">
 								</div>
-								<div class="col-md-6">
-									<input type="text" name="subject" placeholder="Subject">
-								</div>
-								<div class="col-md-12">
-									<textarea name="message" placeholder="Your Message"></textarea>
-								</div>
+								<div class="col-md-6 ">
+
+									<!-- <input type="text" name="subject" placeholder="Service"> -->
+								<select id="service" name="message" placeholder="Choose A Service">
+                                <option value >Choose A Service*</option>
+                                <option value="SEO">SEO</option>
+                                
+                                <option value="SEM">SEM</option>
+                                <option value="SMM">SMM</option>
+                              </select>
+                               </div>
 								<div class="col-md-12">
 									<div class="bi-submit-btn">
 										<button type="submit">Send messages</button>
