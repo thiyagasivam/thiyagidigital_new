@@ -3,13 +3,12 @@
 if($_POST) {
   $to = "thiyagiinc@gmail.com"; // your mail here
   $name = filter_var($_POST["name"], FILTER_SANITIZE_STRING);
-  $mobile = filter_var($_POST["mobile"], FILTER_SANITIZE_STRING);
+  $phone = filter_var($_POST["phone"], FILTER_SANITIZE_STRING);
   $email = filter_var($_POST["email"], FILTER_SANITIZE_STRING);
-  $website = filter_var($_POST["website"], FILTER_SANITIZE_STRING);
-  $service = filter_var($_POST["service"], FILTER_SANITIZE_STRING);
+  $message = filter_var($_POST["message"], FILTER_SANITIZE_STRING);
   $subject = 'Thiyagidigital lead';
   $cc = 'thiyagiinc@gmail.com';
-  $body = "Name:$name\nMobile:$mobile\nEmail:$email\nWebsite:$website\nService:$service";
+  $body = "Name:$name\nPhone:$phone\nEmail:$email\nMessage:$message";
   
   //mail headers are mandatory for sending email
   $headers = 'From: ' .$email . "\r\n". 

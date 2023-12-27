@@ -3,6 +3,9 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Users;
 
+use App\Http\Controllers\ContactController;
+
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -22,9 +25,9 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('contact', function () {
-    return view('contact');
-});
+// Route::get('contact', function () {
+//     return view('contact');
+// });
 
 Route::get('seo', function () {
     return view('seo');
@@ -58,3 +61,21 @@ Route::get('web-development', function () {
     return view('web-development');
 });
 
+// Route::get('mailer', function () {
+//     return view('mailer');
+// });
+
+// Route::get('thankyou', function () {
+//     return view('thankyou');
+// });
+
+
+// routes/web.php
+
+
+// routes/web.php
+
+
+Route::get('/contact', [ContactController::class, 'showForm'])->name('contact.form');
+Route::get('/contact', [ContactController::class, 'showForm'])->name('contact.thankyou2');
+Route::post('/contact', [ContactController::class, 'submitForm'])->name('contact.submit');

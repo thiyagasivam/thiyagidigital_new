@@ -1,3 +1,24 @@
+<!-- resources/views/contact/form.blade.php -->
+
+<!-- <form method="post" action="{{ route('contact.submit') }}">
+    @csrf
+
+    <label for="name">Name:</label>
+    <input type="text" name="name" id="name" required>
+
+    <label for="phone">Phone:</label>
+    <input type="text" name="phone" id="phone" required>
+
+    <label for="email">Email:</label>
+    <input type="email" name="email" id="email" required>
+
+    <label for="message">Message:</label>
+    <textarea name="message" id="message" required></textarea>
+
+    <button type="submit">Submit</button>
+</form> -->
+
+
 @include('header')
 
 <head>
@@ -101,7 +122,7 @@
 					<div class="bi-team-details-contact-form">
 						<!-- <form action="mailer" method="post"> -->
 						<form method="post" action="{{ route('contact.submit') }}">
-						@csrf
+    @csrf
 
 							<div class="row">
 								<div class="col-md-6">
