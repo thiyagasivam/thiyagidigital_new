@@ -19,7 +19,7 @@
                     <h4 class="sec-title_heading">Thank You!</h4>
                     <p style="font-size:30px;">Our team will contact you shortly.</p>
                             <div class="about-one_button">
-							<a href="\!" class="theme-btn btn-style-one">
+							<a href="/#" class="theme-btn btn-style-one">
 								<span class="btn-wrap">
                   
 							</a>
@@ -28,7 +28,7 @@
             </div>
             </div><br> <br>
             <div class="right-part sec-title_title text-center"><br> <br>
-                                <a href="\!" class="button-style1">Back to Home</a>
+                                <a href="/#" class="button-style1">Back to Home</a>
                             </div>
         
 
