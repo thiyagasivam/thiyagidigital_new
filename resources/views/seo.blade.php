@@ -13,7 +13,7 @@
 			<div class="bi-breadcrumbs-content headline ul-li text-center">
 				<h2 style="color: white"><b>Search Engine Optimization</b></h2><br>
 				<ul>
-					<li><a href="#">Home</a></li>
+					<li><a href="home">Home</a></li>
 					<li>Services</li>
 					<li style="color: white">SEO</li>
 				</ul>
