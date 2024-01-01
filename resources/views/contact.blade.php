@@ -12,7 +12,7 @@
 			<div class="bi-breadcrumbs-content headline ul-li text-center">
 				<h2 style="color:white">Contact</h2><br>
 				<ul>
-					<li><a href="\!">Home</a></li>
+					<li><a href="/#">Home</a></li>
 					<li>Contact</li>
 				</ul>
 			</div>

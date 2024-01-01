@@ -99,7 +99,7 @@
 		<div class="bi-header-content new-bgclr ">
 			<div class="bi-header-logo-main-menu d-flex align-items-center justify-content-between ">
 				<div class="brand-logo">
-					<a href="\!"><img src="assets/img/logo/logo2.png" alt=""></a>
+					<a href="/#"><img src="assets/img/logo/logo2.png" alt=""></a>
 				</div>
 				<div class="bi-header-main-menu-cta-area d-flex align-items-center">
 					<div class="bi-header-main-navigation">
@@ -107,7 +107,7 @@
 							<ul id="main-nav" class="nav navbar-nav clearfix">
 								
 								<li>
-									<a href="\!">Home</a>
+									<a href="/#">Home</a>
 								</li>
 								<li><a href="about" target="_blank">About Us</a></li>
 								
@@ -122,8 +122,8 @@
 										<li><a href="email-marketing" target="_blank">Email Marketing</a></li>
                                     </ul>
                                 </li>
-								<li><a href="\!" target="_blank">Testimonial</a></li>
-								<li><a href="\!" target="_blank">Blog</a></li>
+								<li><a href="/#" target="_blank">Testimonial</a></li>
+								<li><a href="/#" target="_blank">Blog</a></li>
                                 <li><a href="contact" target="_blank">Contact Us</a></li>
 
 							</ul>
@@ -154,13 +154,13 @@
 							<i class="fal fa-times"></i>
 						</div>
 						<div class="m-brand-logo">
-							<a href="\!"><img src="assets/img/logo/logo2.png" alt=""></a>
+							<a href="/#"><img src="assets/img/logo/logo2.png" alt=""></a>
 						</div>
 						
 						<nav class="mobile-main-navigation  clearfix ul-li">
 							<ul id="m-main-nav" class="nav navbar-nav clearfix">
 								<li>
-									<a href="\!">Home</a>
+									<a href="/#">Home</a>
 								</li>
 								<li><a href="about" target="_blank">About Us</a></li>
 
@@ -226,7 +226,7 @@
 					<div class="sidebar-info-contents headline pera-content">
 						<div class="content-inner">
 							<div class="sidebar-logo">
-								<a href="\!"><img src="assets/img/logo/logo2.png" alt=""></a>
+								<a href="/#"><img src="assets/img/logo/logo2.png" alt=""></a>
 							</div>
 							<div class="sidebar-menu ul-li-block">
 								<ul>
