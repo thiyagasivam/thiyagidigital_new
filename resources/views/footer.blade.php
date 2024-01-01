@@ -113,7 +113,7 @@
     <div class="container h1-container">
         <div class="hpt-footer-logo">
             <div class="brand-logo text-center">
-                <a href="home"><img src="assets/img/new_home/logo/Logo-color.png" alt=""></a>
+                <a href="\!"><img src="assets/img/new_home/logo/Logo-color.png" alt=""></a>
             </div>
             <div class="logo-mail text-center headline">
                 <h3><a href="#">info@thiyagidigital.com</a></h3>

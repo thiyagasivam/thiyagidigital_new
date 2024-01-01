@@ -21,8 +21,12 @@ use App\Http\Controllers\ContactController;
 //     return view('welcome');
 // });
 
-Route::get('/home', function () {
+Route::get('/', function () {
     return view('home');
+});
+
+Route::get('/home', function () {
+    return view('/home');
 });
 
 // Route::get('contact', function () {

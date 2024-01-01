@@ -28,7 +28,7 @@
             </div>
             </div><br> <br>
             <div class="right-part sec-title_title text-center"><br> <br>
-                                <a href="./home" class="button-style1">Back to Home</a>
+                                <a href="\!" class="button-style1">Back to Home</a>
                             </div>
         
 
