@@ -28,12 +28,12 @@
                     <div class="menu-widget">
                         <h3 class="widget-title">Our Services</h3>
                         <ul>
-                            <li><a href="#">Search Engine Optimization (SEO)</a></li>
-                            <li><a href="#">Social Media Marketing (SMM)</a></li>
-                            <li><a href="#">Search Engine Marketing (SEM)</a></li>
-                            <li><a href="#">Web Design</a></li>
-                            <li><a href="#">Content Writing</a></li>
-                            <li><a href="#">Email Marketing Services</a></li>
+                            <li><a href="seo" target="_blank">Search Engine Optimization</a></li>
+                            <li><a href="smm" target="_blank">Social Media Marketing</a></li>
+                            <li><a href="sem" target="_blank">Search Engine Marketing</a></li>
+                            <li><a href="web-development" target="_blank">Web Development</a></li>
+							<li><a href="email-marketing" target="_blank">Email Marketing</a></li>
+                            <li><a href="content-writing" target="_blank">Content Writing</a></li>
                         </ul>
                     </div>
                 </div>
@@ -43,11 +43,10 @@
                     <div class="menu-widget">
                         <h3 class="widget-title">Quick Links</h3>
                         <ul>
-                            <li><a href="#">About Us</a></li>
+                            <li><a href="about">About Us</a></li>
                             <li><a href="#">Career</a></li>
                             <li><a href="#">Terms of Service</a></li>
                             <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Refund Policy</a></li>
                         </ul>
                     </div>
                 </div>
@@ -114,7 +113,7 @@
     <div class="container h1-container">
         <div class="hpt-footer-logo">
             <div class="brand-logo text-center">
-                <a href="#"><img src="assets/img/new_home/logo/Logo-color.png" alt=""></a>
+                <a href="home"><img src="assets/img/new_home/logo/Logo-color.png" alt=""></a>
             </div>
             <div class="logo-mail text-center headline">
                 <h3><a href="#">info@thiyagidigital.com</a></h3>

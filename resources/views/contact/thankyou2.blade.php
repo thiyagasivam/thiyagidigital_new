@@ -18,17 +18,17 @@
                 <div class="sec-title_title text-center" style="text-transform: none;">
                     <h4 class="sec-title_heading">Thank You!</h4>
                     <p style="font-size:30px;">Our team will contact you shortly.</p>
-                            <div class="about-one_button">
+                            <!-- <div class="about-one_button">
 							<a href="home" class="theme-btn btn-style-one">
 								<span class="btn-wrap">
                   
 							</a>
-						</div>
+						    </div> -->
                 </div>
             </div>
             </div><br> <br>
             <div class="right-part sec-title_title text-center"><br> <br>
-                                <a href="home" class="button-style1">Back to Home</a>
+                                <a href="./home" class="button-style1">Back to Home</a>
                             </div>
         
 

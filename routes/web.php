@@ -61,6 +61,7 @@ Route::get('web-development', function () {
     return view('web-development');
 });
 
+
 // Route::get('mailer', function () {
 //     return view('mailer');
 // });

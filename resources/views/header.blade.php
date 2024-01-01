@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" href="assets/img/logo/f-icon.png" type="image/x-icon">
     <!-- Place favicon.ico in the root directory -->
@@ -98,7 +99,7 @@
 		<div class="bi-header-content new-bgclr ">
 			<div class="bi-header-logo-main-menu d-flex align-items-center justify-content-between ">
 				<div class="brand-logo">
-					<a href="#"><img src="assets/img/logo/logo2.png" alt=""></a>
+					<a href="home"><img src="assets/img/logo/logo2.png" alt=""></a>
 				</div>
 				<div class="bi-header-main-menu-cta-area d-flex align-items-center">
 					<div class="bi-header-main-navigation">
@@ -106,12 +107,12 @@
 							<ul id="main-nav" class="nav navbar-nav clearfix">
 								
 								<li>
-									<a href="#">Home</a>
+									<a href="home">Home</a>
 								</li>
 								<li><a href="about" target="_blank">About Us</a></li>
 								
                                 <li class="dropdown">
-                                    <a href="seo">Services</a>
+                                    <a href="seo" target="_blank">Services</a>
                                     <ul class="dropdown-menu clearfix">
                                         <li><a href="seo" target="_blank">Search Engine Optimization</a></li>
                                         <li><a href="smm" target="_blank">Social Media Marketing</a></li>
@@ -121,8 +122,8 @@
 										<li><a href="email-marketing" target="_blank">Email Marketing</a></li>
                                     </ul>
                                 </li>
-								<li><a href="portfolio" target="_blank">Testimonial</a></li>
-								<li><a href="#" target="_blank">Blog</a></li>
+								<li><a href="home" target="_blank">Testimonial</a></li>
+								<li><a href="home" target="_blank">Blog</a></li>
                                 <li><a href="contact" target="_blank">Contact Us</a></li>
 
 							</ul>
@@ -153,33 +154,31 @@
 							<i class="fal fa-times"></i>
 						</div>
 						<div class="m-brand-logo">
-							<a href="!#"><img src="assets/img/logo/logo2.png" alt=""></a>
+							<a href="home"><img src="assets/img/logo/logo2.png" alt=""></a>
 						</div>
 						
 						<nav class="mobile-main-navigation  clearfix ul-li">
 							<ul id="m-main-nav" class="nav navbar-nav clearfix">
 								<li>
-									<a href="#">Home</a>
+									<a href="home">Home</a>
 								</li>
-								<li><a href="about.php" target="_blank">About Us</a></li>
+								<li><a href="about" target="_blank">About Us</a></li>
 
                                 <li class="dropdown">
-									<a href="service.php" target="_blank">Services</a>
+								   <a href="seo" target="_blank">Services</a>
 									<ul class="dropdown-menu clearfix">
-										<li><a href="#" target="_blank">Search Engine Optimization</a></li>
-                                        <li><a href="#" target="_blank">Social Media Marketing</a></li>
-                                        <li><a href="#" target="_blank">Search Engine Marketing</a></li>
-                                        <li><a href="#" target="_blank">Web Development</a></li>
-                                        <li><a href="#" target="_blank">Web Design</a></li>
-                                        <li><a href="#" target="_blank">Content Writing</a></li>
-										<li><a href="#" target="_blank">Email Marketing</a></li>
-                                        <li><a href="#" target="_blank">Landing Page Design</a></li>
+									    <li><a href="seo" target="_blank">Search Engine Optimization</a></li>
+                                        <li><a href="smm" target="_blank">Social Media Marketing</a></li>
+                                        <li><a href="sem" target="_blank">Search Engine Marketing</a></li>
+                                        <li><a href="web-development" target="_blank">Web Development</a></li>
+                                        <li><a href="content-writing" target="_blank">Content Writing</a></li>
+										<li><a href="email-marketing" target="_blank">Email Marketing</a></li>
 									</ul>
 								</li>
 
-                                <li><a href="testimonial.php" target="_blank">Testimonial</a></li>
+                                <li><a href="#" target="_blank">Testimonial</a></li>
 								<li><a href="#" target="_blank">Blog</a></li>
-                                <li><a href="contact.php" target="_blank">Contact Us</a></li>
+                                <li><a href="contact" target="_blank">Contact Us</a></li>
 
 							</ul>
 						</nav>
@@ -227,21 +226,26 @@
 					<div class="sidebar-info-contents headline pera-content">
 						<div class="content-inner">
 							<div class="sidebar-logo">
-								<a href="#"><img src="assets/img/logo/logo2.png" alt=""></a>
+								<a href="home"><img src="assets/img/logo/logo2.png" alt=""></a>
 							</div>
 							<div class="sidebar-menu ul-li-block">
 								<ul>
-									<li><a href="#"><i class="fa fa-wrench"></i> Services</a></li>
-									<!-- <li><a href="#"><i class="fa fa-wrench"></i> Social Media Marketing (SMM)</a></li>
-									<li><a href="#"><i class="fa fa-wrench"></i> Search Engine Marketing (SEM)</a></li>
-									<li><a href="#"><i class="fa fa-wrench"></i> Web Design</a></li>
-									<li><a href="#"><i class="fa fa-wrench"></i> Content Writing</a></li>
-									<li><a href="#"><i class="fa fa-wrench"></i> Email Marketing Services</a></li> -->
-									<li><a href="about"><i class="fal fa-home"></i> About Us </a></li>
-									<li><a href="testimonial"><i class="fal fa-comments-alt"></i> Testimonial </a></li>
-									<li><a href="team"><i class="fal fa-users"></i> Our Team </a></li>
-									<li><a href="portfolio"><i class="fal fa-briefcase"></i> Portfolio </a></li>
-									<li><a href="#"><i class="fal fa-blog"></i> Blog </a></li>
+									<li class="dropdown">
+										<a href="seo" target="_blank"><i class="fa fa-wrench"></i> Services</a>
+									<ul class="dropdown-menu clearfix">
+									    <li><a href="seo" target="_blank">Search Engine Optimization</a></li>
+                                        <li><a href="smm" target="_blank">Social Media Marketing</a></li>
+                                        <li><a href="sem" target="_blank">Search Engine Marketing</a></li>
+                                        <li><a href="web-development" target="_blank">Web Development</a></li>
+                                        <li><a href="content-writing" target="_blank">Content Writing</a></li>
+										<li><a href="email-marketing" target="_blank">Email Marketing</a></li>
+									</ul>
+								</li>
+									<li><a href="about" target="_blank"><i class="fal fa-home"></i> About Us </a></li>
+									<!-- <li><a href="#" target="_blank"><i class="fal fa-comments-alt"></i> Testimonial </a></li> -->
+									<!-- <li><a href="team"><i class="fal fa-users"></i> Our Team </a></li> -->
+									<!-- <li><a href="portfolio"><i class="fal fa-briefcase"></i> Portfolio </a></li> -->
+									<!-- <li><a href="#"><i class="fal fa-blog"></i> Blog </a></li> -->
 									<li><a href="contact"><i class="fal fa-envelope"></i> Contact Us</a></li>
 								</ul>
 							</div>
@@ -261,7 +265,7 @@
 							</div>
                            
 							<div class="sidebar-copyright text-center">
-								© Copyright 2023. Thiyagai Digital All Rights Reserved. 
+								© Copyright 2023. Thiyagidigital All Rights Reserved. 
 							</div>
 						</div>
 					</div>
